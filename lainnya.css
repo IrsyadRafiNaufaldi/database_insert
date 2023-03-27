@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Head{
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.tambahdata{
+    float: right;
+    margin-right: 30px;
+}
+
+table {
+    margin-top: 35px;
+    border-collapse: collapse;
+    margin-left: 2px;
+}
+
+table, th, td {
+    border: 1.5px solid black;
+    padding: 5px;
+}
+
+thead{
+    background-color:coral;
+}
+
+.kembali{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
